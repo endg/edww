@@ -2,8 +2,8 @@
 title: "COPYRIGHT"
 description: '有关版权的一些事情'
 keywords: ["copyright", "版权声明"]
-date: 2020-02-18T16:01:23+08:00
-lastmod: 2020-02-18T16:01:23+08:00
+date: 2020-04-20T16:01:23+08:00
+lastmod: 2020-04-20T16:01:23+08:00
 draft: false
 tags: ["hugo"]
 categories: ["computer"]
