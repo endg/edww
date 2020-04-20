@@ -148,7 +148,7 @@ menu:
 
 params:
   description: "Personal website of DAN's note; 老登纪"
-  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn) [版权声明](/copyright)"
+  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn) "
   disqusURL: ""
   customJS:
     - "js/fix-toc.js"
