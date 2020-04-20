@@ -4,7 +4,7 @@ date: '2017-10-19'
 slug: joyful-moments
 ---
 
-Maëlle Salmon [announced](https://twitter.com/ma_salmon/status/920660343063490562) her "new session" (a cute newborn) on Twitter, and I was delighted and honored to see the **knitr** hex logo on her blanket. Welcome to the woRld, little Émile!
+Maëlle Salmon [announced](https://tw.com/ma_salmon/status/920660343063490562) her "new session" (a cute newborn) on tw, and I was delighted and honored to see the **knitr** hex logo on her blanket. Welcome to the woRld, little Émile!
 
 ![knitr logo on blanket](https://db.yihui.org/images/knitr-blanket.jpg)
 
@@ -26,4 +26,4 @@ I also remember Scott Kostyshak kindly bought me a book as a gift a few years ag
 
 This post is just to show some random memories of me as a software developer that have been motivating me to continue my work. Again, I'm not asking for thank-you notes or gifts or donations whatsoever. A **knitr** hex logo on your baby's blanket can make me happy enough :)
 
-P.S. Two months after I wrote this post, I was glad to learn that I was considered helpful [by Alison](https://twitter.com/apreshill/status/939531804935036929).
+P.S. Two months after I wrote this post, I was glad to learn that I was considered helpful [by Alison](https://tw.com/apreshill/status/939531804935036929).

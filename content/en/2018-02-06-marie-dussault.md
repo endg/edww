@@ -8,10 +8,10 @@ Honestly, I rarely expect users to read the full documentation of my software pa
 
 Write, as if no one would read it.
 
-I was very happy to learn that [Marie Dussault](https://twitter.com/londonaesthetik/status/960895191992463365) actually finished reading the **blogdown** book in three hours. That was beyond my expectation, and will give me more motivation to work on my future software documentation.
+I was very happy to learn that [Marie Dussault](https://tw.com/londonaesthetik/status/960895191992463365) actually finished reading the **blogdown** book in three hours. That was beyond my expectation, and will give me more motivation to work on my future software documentation.
 
-BTW, I found [Jesse Maegan](https://twitter.com/kierisi/status/960879081553387520)'s description very amusing: "I'll tweak this - OMG WHY IS MY SITE BROKEN?" That immediately brought this GIF to my mind:
+BTW, I found [Jesse Maegan](https://tw.com/kierisi/status/960879081553387520)'s description very amusing: "I'll tweak this - OMG WHY IS MY SITE BROKEN?" That immediately brought this GIF to my mind:
 
 ![OMG WHY IS MY SITE BROKEN](https://slides.yihui.org/gif/encontro.gif)
 
-Again BTW, can you imagine [how amazing my co-author Alison is](https://twitter.com/apreshill/status/960879856413163520)?!
+Again BTW, can you imagine [how amazing my co-author Alison is](https://tw.com/apreshill/status/960879856413163520)?!

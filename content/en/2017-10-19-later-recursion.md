@@ -39,7 +39,7 @@ Basically this means you cannot expect the task will be executed precisely every
 
 ## (Update on 2018/01/10) Won't this lead to infinite recursion?
 
-It didn't occur to me that there seemed to be an infinite recursion until [Miles McBain](https://twitter.com/MilesMcBain/status/950854460628123648) pointed it out, but my colleague [Alan Dipert](https://twitter.com/alandipert/status/950991363771850752) reassured us that the **later** package had the magic of avoiding stack buildup. It was such a surprise to me! Then my colleague [Joe confirmed it](https://twitter.com/jcheng/status/951108928993046528), and attributed it to Simon Urbanek.
+It didn't occur to me that there seemed to be an infinite recursion until [Miles McBain](https://tw.com/MilesMcBain/status/950854460628123648) pointed it out, but my colleague [Alan Dipert](https://tw.com/alandipert/status/950991363771850752) reassured us that the **later** package had the magic of avoiding stack buildup. It was such a surprise to me! Then my colleague [Joe confirmed it](https://tw.com/jcheng/status/951108928993046528), and attributed it to Simon Urbanek.
 
 Normally you cannot just keep calling a function inside itself. R has a global option `expressions` that defaults to 5000, which means it can only evaluate 5000 nested expressions by default. If there isn't an exit in the recursion, it will blow up at some point, e.g., this will stop before `i` reaches 5000:
 

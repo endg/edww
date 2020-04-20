@@ -30,7 +30,7 @@ What I described here actually applies to any software packages (not only R), as
 
 OK, it works, but we are still a little bit far from what CRAN does, because Travis CI does not have official support for R. Each time we have to install one Gigabyte of additional software to create the R testing environment (sigh, if only R did not have to tie itself to LaTeX). If these packages are pre-built in the virtual machines, it will save us a lot of time.
 
-~~The second problem is, there is no Windows support on Travis CI~~ (one developer told us on [Twitter](https://twitter.com/henrikhodne/status/322667858205241344) that it was coming). There is [a page](http://about.travis-ci.org/docs/user/osx-ci-environment/) for OS X, but I did not really figure out how to build software under OS X there.
+~~The second problem is, there is no Windows support on Travis CI~~ (one developer told us on [tw](https://tw.com/henrikhodne/status/322667858205241344) that it was coming). There is [a page](http://about.travis-ci.org/docs/user/osx-ci-environment/) for OS X, but I did not really figure out how to build software under OS X there.
 
 The third problem is Travis CI only builds and tests packages; it does not provide downloads like CRAN. Perhaps we can upload the packages using [encryption keys](http://about.travis-ci.org/docs/user/encryption-keys/) to our own servers.
 

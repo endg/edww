@@ -56,7 +56,7 @@ You may ask why not define a normal function, like `go = function() { ... }`? I 
 
 ## Appendix: Does `yolo: true` work in blogdown?
 
-Brandon Hurr asked me this question [on Twitter](https://twitter.com/bhive01/status/958543255955693574) a couple of days ago. Well, `yolo: true` in the **xaringan** package is essentially the Mustache Karl picture inserted on random slides. I can certainly make it work for **blogdown** (i.e., insert Karl's picture randomly in your blog posts), but I'd prefer not to, since **xaringan** is pretty much a personal package, and **blogdown** is not. I don't wish to push it too far.
+Brandon Hurr asked me this question [on tw](https://tw.com/bhive01/status/958543255955693574) a couple of days ago. Well, `yolo: true` in the **xaringan** package is essentially the Mustache Karl picture inserted on random slides. I can certainly make it work for **blogdown** (i.e., insert Karl's picture randomly in your blog posts), but I'd prefer not to, since **xaringan** is pretty much a personal package, and **blogdown** is not. I don't wish to push it too far.
 
 That said, you have full freedom on your personal blog, so let met tell you the secret weapon. There is an unexported function `yolo()` in **xaringan**, and you can call it in an R code chunk, e.g.,
 

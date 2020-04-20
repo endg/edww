@@ -4,7 +4,7 @@ date: '2017-09-11'
 slug: redundancy-in-if-x-true
 ---
 
-Last year when I was at JSM, I attended an excellent talk by Nicholas Horton and later [nitpicked](https://twitter.com/xieyihui/status/759863505357012996) his R code:
+Last year when I was at JSM, I attended an excellent talk by Nicholas Horton and later [nitpicked](https://tw.com/xieyihui/status/759863505357012996) his R code:
 
 ```r
 ifelse(dest == "ORD" | dest == "MDW", TRUE, FALSE)

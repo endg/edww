@@ -4,9 +4,9 @@ date: '2017-05-17'
 slug: when-in-doubt-upgrade
 ---
 
-I have said this many times in several Github issues and it is also the very first [FAQ](/knitr/faq/) of **knitr**. It is a little exaggerative and certainly not a universal rule, but it helps a lot if you could try to upgrade everything before you report a software issue. It is even more helpful if you could also install the development version of the software and see if the problem has gone. Although it sounds like a joke, [@ThePracticalDev](https://twitter.com/ThePracticalDev/) actually has a very good point:
+I have said this many times in several Github issues and it is also the very first [FAQ](/knitr/faq/) of **knitr**. It is a little exaggerative and certainly not a universal rule, but it helps a lot if you could try to upgrade everything before you report a software issue. It is even more helpful if you could also install the development version of the software and see if the problem has gone. Although it sounds like a joke, [@ThePracticalDev](https://tw.com/ThePracticalDev/) actually has a very good point:
 
-[![](https://pbs.twimg.com/media/Cf7eHZ1W4AEeZJA.jpg)](https://twitter.com/ThePracticalDev/status/720257210161311744/)
+[![](https://pbs.twimg.com/media/Cf7eHZ1W4AEeZJA.jpg)](https://tw.com/ThePracticalDev/status/720257210161311744/)
 
 You may replace "Changing Stuff" with "Upgrading Stuff" above.
 
@@ -44,7 +44,7 @@ P.S. A list of issues solved simply by updating packages:
 - [DT datatable callback function not working after update](https://github.com/rstudio/DT/issues/492)
 - [imgur_upload fails](https://github.com/yihui/knitr/issues/1514)
 - [Error with RMarkdown: `is_latex_output` is not an exported object from 'namespace:knitr'](https://github.com/rstudio/rmarkdown/issues/1272)
-- [I'm trying to install hugo for the blogdown package but I get a fatal error stating that "R session Aborted, R encountered the fatal error"](https://twitter.com/pprabaka1/status/970841320783835136)
+- [I'm trying to install hugo for the blogdown package but I get a fatal error stating that "R session Aborted, R encountered the fatal error"](https://tw.com/pprabaka1/status/970841320783835136)
 - [Getting failed to upload file error when reprex contains a plot](https://github.com/tidyverse/reprex/issues/168#issuecomment-367027374)
 - [Allow `fun` in `stat_summary_2d` to return `data.frame`](https://github.com/tidyverse/ggplot2/issues/2519)
 - [about the code run wrong in xaringan](https://github.com/yihui/xaringan/issues/131)

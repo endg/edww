@@ -5,7 +5,7 @@ date: '2017-08-31'
 slug: source-code-as-screenshots
 ---
 
-After having seen this many times before, I decided to write a short post about it. I don't know why some people prefer using screenshots when sharing source code (e.g., [rstudio/rmarkdown#520](https://github.com/rstudio/rmarkdown/issues/520) and [rstudio/rmarkdown#1133](https://github.com/rstudio/rmarkdown/issues/1133)). One day [Robert Flight said](https://twitter.com/xieyihui/status/875576180061028352) that he realized he was silly to include source code as screenshots, and I replied: 
+After having seen this many times before, I decided to write a short post about it. I don't know why some people prefer using screenshots when sharing source code (e.g., [rstudio/rmarkdown#520](https://github.com/rstudio/rmarkdown/issues/520) and [rstudio/rmarkdown#1133](https://github.com/rstudio/rmarkdown/issues/1133)). One day [Robert Flight said](https://tw.com/xieyihui/status/875576180061028352) that he realized he was silly to include source code as screenshots, and I replied: 
 
 > "We cannot be friends if you insert source code as screenshots."
 

@@ -4,7 +4,7 @@ date: '2017-10-09'
 slug: cross-posting
 ---
 
-Many people cross-post the same questions in different places: private emails, StackOverflow, Disqus threads, Twitter, and mailing lists, etc. It is totally fine to cross-post questions. You may be eager to obtain an answer, which is understandable.
+Many people cross-post the same questions in different places: private emails, StackOverflow, Disqus threads, tw, and mailing lists, etc. It is totally fine to cross-post questions. You may be eager to obtain an answer, which is understandable.
 
 What is bad, however, is that you do not mention that you cross-posted the question in other places. This has happened several times in the past to me: after I try hard to reply an email from someone asking me a question, I start to go through the StackOverflow question feeds I subscribed, and find the same question has been posted there, and answered by someone else.
 

@@ -4,7 +4,7 @@ date: '2017-10-23'
 slug: duncan-vignettes
 ---
 
-Many R users may have heard this morning that [Duncan Murdoch has stepped down from the R Core Team](https://twitter.com/_R_Foundation/status/922475036593852416) and from the R Foundation. He no longer maintains the Windows R binaries, either.
+Many R users may have heard this morning that [Duncan Murdoch has stepped down from the R Core Team](https://tw.com/_R_Foundation/status/922475036593852416) and from the R Foundation. He no longer maintains the Windows R binaries, either.
 
 I haven't had much interaction with Duncan on a personal basis. I think we have met only once at Interface 2012, where I complained about the old-fashioned R homepage to him. I'm definitely not the right person to summarize his enormous contributions to the R world, but after hearing that he was leaving the R Core Team, I briefly recalled what I knew about him in my mind.
 

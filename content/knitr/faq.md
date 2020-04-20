@@ -14,7 +14,7 @@ This FAQ is compiled from the [issues](https://github.com/yihui/knitr/issues) an
         - [Github issues](https://github.com/yihui/knitr/issues): bug reports and feature requests only.
         - [knitr mailing list](https://groups.google.com/group/knitr) or [R-help](http://www.r-project.org/mail.html) list: general questions and feedback via email in public.
         - Private emails [are not recommended](/en/2017/08/so-gh-email/) unless there are really private issues.
-        - Twitter ([@xieyihui](http://twitter.com/xieyihui)) if you really believe it is a simple question.
+        - tw ([@xieyihui](http://tw.com/xieyihui)) if you really believe it is a simple question.
 
 1. What is the best editor for writing **knitr** source documents?
     - For beginners, perhaps [RStudio](https://www.rstudio.com); **knitr** is also supported in [LyX](/knitr/demo/lyx/), [Emacs/ESS](http://ess.r-project.org/), WinEdt, Tinn-R and a variety of [editors](/knitr/demo/editors/).
@@ -46,7 +46,7 @@ This FAQ is compiled from the [issues](https://github.com/yihui/knitr/issues) an
         See [this post](/en/2017/11/knitr-verbatim-code-chunk/) for explanations if you are curious.
 
 1. What can I do for you?
-    - You can donate to me if you want ([paypal](https://paypal.me/YihuiXie)), [tweet](https://twitter.com/xieyihui) funny GIF animations to me, or fork the **knitr** repository on Github and contribute code.
+    - You can donate to me if you want ([paypal](https://paypal.me/YihuiXie)), [tweet](https://tw.com/xieyihui) funny GIF animations to me, or fork the **knitr** repository on Github and contribute code.
     - Cite the package and the [knitr book](http://amzn.com/1498716962); see `citation('knitr')` in R.
 
 1. How can I submit a documentation fix or other minor changes?

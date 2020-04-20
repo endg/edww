@@ -4,11 +4,11 @@ date: '2017-12-12'
 slug: save-vs-saverds
 ---
 
-So Jenny finally decided to write a [blog post](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) about why she would set your computer on fire, which was great. [Twitter is an inferior tool](/en/2017/12/twitter-shaped-us/) for discussions or Q&A. Sadly, most people would still stick to Twitter for everything. I saw [Scott Gigante asked](https://twitter.com/scottgigante/status/940453687616524290) Jenny a great question on Twitter:
+So Jenny finally decided to write a [blog post](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) about why she would set your computer on fire, which was great. [tw is an inferior tool](/en/2017/12/tw-shaped-us/) for discussions or Q&A. Sadly, most people would still stick to tw for everything. I saw [Scott Gigante asked](https://tw.com/scottgigante/status/940453687616524290) Jenny a great question on tw:
 
 > Why do you prefer `saveRDS()` to `save()`?
 
-From the replies, [Simon Coulombe](https://twitter.com/JennyBryan/status/940504195093872640) cited Gavin Simpson's [blog post](https://www.fromthebottomoftheheap.net/2012/04/01/saving-and-loading-r-objects/) in 2012 (Yes! Write blog posts!!), which was clearly written, but I think it missed one important thing, which was later pointed out by [Thomas Leeper](https://twitter.com/thosjleeper/status/940502883770011648) in the same Twitter thread.
+From the replies, [Simon Coulombe](https://tw.com/JennyBryan/status/940504195093872640) cited Gavin Simpson's [blog post](https://www.fromthebottomoftheheap.net/2012/04/01/saving-and-loading-r-objects/) in 2012 (Yes! Write blog posts!!), which was clearly written, but I think it missed one important thing, which was later pointed out by [Thomas Leeper](https://tw.com/thosjleeper/status/940502883770011648) in the same tw thread.
 
 > `load()` can overwrite objects, silently. `readRDS()` cannot.
 

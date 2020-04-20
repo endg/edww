@@ -4,11 +4,11 @@ date: '2018-07-27'
 slug: quietly-struggling
 ---
 
-Recently I was kind of amused by two instances of quiet yet long-time struggles with software. Struggles are not inherently amusing,^[Not sure if there is an equivalent version in the western culture, but we sometimes joke in Chinese: "What made you so unhappy? Come on! Tell us, to make us happy." Again, this is only a joke. We are not really that evil.] but when you discover that you are not the only one struggling with a problem, [you may feel relieved](https://twitter.com/darokun/status/1062618033078915078) and even amused (phew, I'm probably not totally an idiot).
+Recently I was kind of amused by two instances of quiet yet long-time struggles with software. Struggles are not inherently amusing,^[Not sure if there is an equivalent version in the western culture, but we sometimes joke in Chinese: "What made you so unhappy? Come on! Tell us, to make us happy." Again, this is only a joke. We are not really that evil.] but when you discover that you are not the only one struggling with a problem, [you may feel relieved](https://tw.com/darokun/status/1062618033078915078) and even amused (phew, I'm probably not totally an idiot).
 
 ## rJava
 
-One instance was [Julia Silge crying over **rJava**](https://twitter.com/juliasilge/status/1021931066460794882). Oh rJava... RJAVA! Let me count the number of ways you could fail and the number of hours I have spent on your installation...
+One instance was [Julia Silge crying over **rJava**](https://tw.com/juliasilge/status/1021931066460794882). Oh rJava... RJAVA! Let me count the number of ways you could fail and the number of hours I have spent on your installation...
 
 ![Crying together](https://db.yihui.org/images/gaocheng-wuliuyi.jpg)
 
@@ -36,7 +36,7 @@ Okay, D3. Seriously, it is awesome. But somehow it seems to have something in co
 
 I'm sure if I learn it seriously and step by step, I wouldn't struggle much. I kind of know JavaScript and SVG, but my brain has been poisoned by R graphics. D3 is even more low-level than base R graphics. I don't want to spend too much time on learning it, so to some extent, I just deserve my failures.
 
-So I wanted to create a simple bubble chart after seeing [the beautiful official example](https://bl.ocks.org/mbostock/4063269). It turned out that [it took me about six hours](https://twitter.com/xieyihui/status/1022231125970903041), which made [Tracy Shen](https://twitter.com/JiaShenTracy/status/1022463247440601091) and [Joshua Goldberg](https://twitter.com/GoldbergData/status/1022318653306548224) feel relieved. The last time when I touched D3 was six years ago, and I still remember the examples of three dots.
+So I wanted to create a simple bubble chart after seeing [the beautiful official example](https://bl.ocks.org/mbostock/4063269). It turned out that [it took me about six hours](https://tw.com/xieyihui/status/1022231125970903041), which made [Tracy Shen](https://tw.com/JiaShenTracy/status/1022463247440601091) and [Joshua Goldberg](https://tw.com/GoldbergData/status/1022318653306548224) feel relieved. The last time when I touched D3 was six years ago, and I still remember the examples of three dots.
 
 ## Conclusion?
 

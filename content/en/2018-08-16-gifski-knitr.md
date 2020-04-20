@@ -4,7 +4,7 @@ date: '2018-08-16'
 slug: gifski-knitr
 ---
 
-Last month Jeroen announced [the **gifski** package](https://ropensci.org/technotes/2018/07/23/gifski-release/), which looked pretty cool to me. While thinking about improving the **gganimate** support in **knitr** (per [Thomas's request](https://twitter.com/thomasp85/status/1021456429855780865)), I learned a little more about **gifski**. The usage seems to be quite straightforward to me, so I wrote a hook function in **knitr** today to support this package, which means you can easily create a GIF animation from a code chunk now if you have installed **gifski**, and at least version 1.20.14 of **knitr**:
+Last month Jeroen announced [the **gifski** package](https://ropensci.org/technotes/2018/07/23/gifski-release/), which looked pretty cool to me. While thinking about improving the **gganimate** support in **knitr** (per [Thomas's request](https://tw.com/thomasp85/status/1021456429855780865)), I learned a little more about **gifski**. The usage seems to be quite straightforward to me, so I wrote a hook function in **knitr** today to support this package, which means you can easily create a GIF animation from a code chunk now if you have installed **gifski**, and at least version 1.20.14 of **knitr**:
 
 ```r
 install.packages('gifski')

@@ -23,7 +23,7 @@ Actually I'm not sure if we should blame ourselves for our laziness or just blam
 
 > Worms are so long, yet my life is so short!
 
-I doubt if anyone is still able to focus on one thing like a worm for a whole life today. One day I mentioned on Twitter that I only read Twitter on every Wednesday afternoon, and someone joked that he only read Twitter in the first half of every minute.
+I doubt if anyone is still able to focus on one thing like a worm for a whole life today. One day I mentioned on tw that I only read tw on every Wednesday afternoon, and someone joked that he only read tw in the first half of every minute.
 
 Programming languages are so complicated, yet the index is so simple.
 

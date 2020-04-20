@@ -1,17 +1,16 @@
-baseurl: "https://yihui.org/"
+baseurl: "https://edwww.com/"
 languageCode: "en-us"
-title: "Yihui Xie | 谢益辉"
+title: "Dan | 登"
 theme: "hugo-ivy"
-disqusShortname: "yihui"
-ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+disqusShortname: ""
 hasCJKLanguage: true
 enableEmoji: true
 footnotereturnlinkcontents: "↩"
 rssLimit: 100
 
 permalinks:
-  cn: "/cn/:year/:month/:slug/"
-  en: "/en/:year/:month/:slug/"
+  cn: "/cn/:slug/"
+  en: "/en/:slug/"
 
 menu:
   main:
@@ -24,9 +23,15 @@ menu:
     - name: "关于"
       url: "/cn/about/"
       weight: 3
-    - name: "日志"
+    - name: "纪录"
       url: "/cn/"
       weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
   en:
     - name: "Home"
       url: "/"
@@ -40,9 +45,15 @@ menu:
     - name: "Vitae"
       url: "/en/vitae/"
       weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
     - name: "中文"
       url: "/cn/"
-      weight: 5
+      weight: 7
   cn:
     - name: "首页"
       url: "/"
@@ -50,7 +61,7 @@ menu:
     - name: "关于"
       url: "/cn/about/"
       weight: 2
-    - name: "日志"
+    - name: "纪录"
       url: "/cn/"
       weight: 3
     - name: "简历"
@@ -59,9 +70,15 @@ menu:
     - name: "菜谱"
       url: "/cn/recipe/"
       weight: 5
+    - name: "分类"
+      url: "/categories/"
+      weight: 6
+    - name: "标签"
+      url: "/tags/"
+      weight: 7
     - name: "English"
       url: "/en/"
-      weight: 6
+      weight: 8
   knitr:
     - name: "Home"
       url: "/knitr/"
@@ -130,9 +147,9 @@ menu:
       weight: 7
 
 params:
-  description: "Personal website of Yihui Xie; 谢益辉的个人网站"
-  footer: "&copy; [Yihui Xie](/) 2005 - 2020"
-  disqusURL: "https://yihui.org"
+  description: "Personal website of DAN's note; 老登纪"
+  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn)"
+  disqusURL: ""
   customJS:
     - "js/fix-toc.js"
     - "js/center-img.js"
@@ -143,7 +160,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/endg/edww/edit/master/content/"
   twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)

@@ -4,7 +4,7 @@ date: '2017-12-05'
 slug: baser-snowflakes
 ---
 
-As I [said previously](/en/2017/10/base-r-broman/), I'm a desiccated baseR-er like Karl Broman, and I'm an unfortunate master of `par()`. Today I saw a lovely papa drew [some beautiful snowflakes](https://twitter.com/ikashnitsky/status/937786580231696384) for his daughter using **ggplot2**.
+As I [said previously](/en/2017/10/base-r-broman/), I'm a desiccated baseR-er like Karl Broman, and I'm an unfortunate master of `par()`. Today I saw a lovely papa drew [some beautiful snowflakes](https://tw.com/ikashnitsky/status/937786580231696384) for his daughter using **ggplot2**.
 
 I'm sorry for boring you, but... I haven't drawn any plots for a long time, but `par()` is still in my memory, and here is the desiccated base R version of the snowflakes:
 

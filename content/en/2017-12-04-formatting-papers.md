@@ -29,4 +29,4 @@ And what is even worse is that we are unconsciously making ourselves prisoners i
 
 Below I have collected some examples that show the pain of authors when they are forced to do things irrelevant to the content of their papers:
 
-- [Nick Tierney](https://twitter.com/nj_tierney/status/939800909978017792) felt desperate when being required to submit a Word version of the paper (presumably the paper was written in LaTeX or R Markdown).
+- [Nick Tierney](https://tw.com/nj_tierney/status/939800909978017792) felt desperate when being required to submit a Word version of the paper (presumably the paper was written in LaTeX or R Markdown).

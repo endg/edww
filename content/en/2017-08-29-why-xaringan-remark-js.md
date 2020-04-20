@@ -23,11 +23,11 @@ I spent three days during the last Thanksgiving break on developing the prototyp
 
 1. There are several useful slide properties such as `class`, `background-image`, and `layout`. These are simple to write but can style individual slides in pretty much any way you want if you know a little bit CSS. Even if you don't know CSS, the built-in classes like `class: center, middle` are useful enough.
 
-1. As I mentioned above, the background image property is my favorite one. A few weeks before I wrote the R package, Karthik [requested a feature](https://github.com/yihui/xaringan/issues/1) on Twitter that allows users to insert the Mustache Karl (TM) picture using an argument `yolo = TRUE`. I felt it was fun, so I [implemented](https://slides.yihui.org/xaringan/karl.html) it in **xaringan**. If you turn it on, you will see the happy Karl on a _random_ slide like this:
+1. As I mentioned above, the background image property is my favorite one. A few weeks before I wrote the R package, Karthik [requested a feature](https://github.com/yihui/xaringan/issues/1) on tw that allows users to insert the Mustache Karl (TM) picture using an argument `yolo = TRUE`. I felt it was fun, so I [implemented](https://slides.yihui.org/xaringan/karl.html) it in **xaringan**. If you turn it on, you will see the happy Karl on a _random_ slide like this:
 
     ![Mustache Karl](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-    This feature is actually extensible in the sense that you can specify `yolo = 3` to show Karl three times on three slides randomly. Or customize the image and the number of times [like](https://twitter.com/xieyihui/status/892896880530796544) `yolo = list(img = "kangaroo.jpg", times = 5)`.
+    This feature is actually extensible in the sense that you can specify `yolo = 3` to show Karl three times on three slides randomly. Or customize the image and the number of times [like](https://tw.com/xieyihui/status/892896880530796544) `yolo = list(img = "kangaroo.jpg", times = 5)`.
 
 1. Incremental slides can be incremental in any fashion you want. Typically you may want to show a full bullet list item by item, but you don't have to go that way. For example, you are free to show the first two bullets, then the third, and then the fourth to sixth. Just use two dashes to separate the incremental content.
 

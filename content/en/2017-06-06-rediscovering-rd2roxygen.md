@@ -8,7 +8,7 @@ During a lunch with [Rob Hyndman](https://robjhyndman.com) and [Earo Wang](https
 
 After Earo heard about this, she immediately [started working](https://github.com/earowang/hts/commit/ad6ae35e708d7dbee79f29a529db414d3ea93abc) on her **hts** package. She was one of the most impressive R ladies I had ever met. With a Buffalo wing in her left hand, and the Z shell in the right hand, she almost got it done a few minutes after Rob and I talked briefly about **Rd2roxygen**.
 
-I [blogged about **Rd2roxygen**](/en/2010/12/rd2roxygen-convert-rd-to-roxygen-documentation/) in 2010 and have almost forgotten it (that is why blogging is important). Today I just saw Joseph Stachelek [tweeted about it](https://twitter.com/jjstache/status/872098193328230400). I'm happy that people still keep rediscovering it.
+I [blogged about **Rd2roxygen**](/en/2010/12/rd2roxygen-convert-rd-to-roxygen-documentation/) in 2010 and have almost forgotten it (that is why blogging is important). Today I just saw Joseph Stachelek [tweeted about it](https://tw.com/jjstache/status/872098193328230400). I'm happy that people still keep rediscovering it.
 
 Without **roxygen**, I don't think I could keep the momentum of working on more R packages. I was totally frustrated with the documentation of my first R package ([**animation**](/animation/)), and almost wanted to give up. Then **roxygen** appeared, thanks to its original authors Peter Danenberg and Manuel Eugster, and I felt it was a life-saver. The main reasons for switching to **roxygen** for me were: 
 

@@ -4,11 +4,11 @@ date: '2018-06-26'
 slug: tufte-rants
 ---
 
-大名鼎鼎的 Tufte 大人最近两天不知受了什么刺激，开始抨击起 R 来，说 [R 的作图功能严重过时且蹩脚](https://twitter.com/EdwardTufte/status/1011630049156648960)（注：两日后他已经删除这条消息）。于是这两天我就看着推特上一批 R 用户纷纷爆炸，站出来告诉他现代 R 作图方式是怎样的。
+大名鼎鼎的 Tufte 大人最近两天不知受了什么刺激，开始抨击起 R 来，说 [R 的作图功能严重过时且蹩脚](https://tw.com/EdwardTufte/status/1011630049156648960)（注：两日后他已经删除这条消息）。于是这两天我就看着推特上一批 R 用户纷纷爆炸，站出来告诉他现代 R 作图方式是怎样的。
 
 唉，是不是人老了就会各种毛病：保守、顽固、富有攻击性。虽然 Tufte 青壮年时期在可视化方面确实做了很出色的工作，但似乎后半辈子都在吃老本，日复一日重复讲课，推销自己，所以有人[强烈建议不要去上他的课](https://eagereyes.org/criticism/edward-tufte-one-day-course)。
 
-以上是背景故事。真正搞笑的是一位 R 用户的[这条消息](https://twitter.com/thomasp85/status/1011671837200343041)：
+以上是背景故事。真正搞笑的是一位 R 用户的[这条消息](https://tw.com/thomasp85/status/1011671837200343041)：
 
 > The greatest of Tufte's contributions to data visualisation in recent years are his obnoxious tweets prompting a flurry of replies with great resources proving him wrong, thus helping the spread of said ressources.
 

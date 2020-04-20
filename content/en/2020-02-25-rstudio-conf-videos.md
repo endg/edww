@@ -8,7 +8,7 @@ Last week I finished watching the videos of talks that I was interested in but m
 
 - [**Open Source Software for Data Science - J.J. Allaire**](https://resources.rstudio.com/rstudio-conf-2020/rstudio-open-source-software-for-data-science-j-j-allaire)
 
-    This talk triggered some of my thoughts. I have always been pround of RStudio for its deep commitment to open source. I feel one obvious thing that people often ignore is that open source developers need to eat and live---they are also humans. Open source is free as in both speech and beer. "Free as in beer" can be a substantial challenge to open source developers to make a living, which is perhaps why we often see open source projects are side jobs of developers in their spare time. In 2014 (when I was still very cynical), [I wrote on Twitter](https://twitter.com/xieyihui/status/449309622025740289):
+    This talk triggered some of my thoughts. I have always been pround of RStudio for its deep commitment to open source. I feel one obvious thing that people often ignore is that open source developers need to eat and live---they are also humans. Open source is free as in both speech and beer. "Free as in beer" can be a substantial challenge to open source developers to make a living, which is perhaps why we often see open source projects are side jobs of developers in their spare time. In 2014 (when I was still very cynical), [I wrote on tw](https://tw.com/xieyihui/status/449309622025740289):
     
     > "THOU SHALL NOT BECOME RICH", as if GPL had said.
     
@@ -48,7 +48,7 @@ Last week I finished watching the videos of talks that I was interested in but m
 
     This lightning talk is an unusual one but also very interesting and inspiring. I wrote the **knitr** package, but I have no real knitting skills. It was refreshing to see how a dress was made. The hex logos is only one obvious highlight of the dress. The other highlight is that the dress has pockets!!
 
-    In this talk, I learned the correct pronunciation of "sew" for the first time. It had [surprised Maëlle Salmon, too](https://twitter.com/ma_salmon/status/1229821025342324737). Then a few other people became interested in watching the talk just because they started to doubt if they knew how to pronounce "sew".
+    In this talk, I learned the correct pronunciation of "sew" for the first time. It had [surprised Maëlle Salmon, too](https://tw.com/ma_salmon/status/1229821025342324737). Then a few other people became interested in watching the talk just because they started to doubt if they knew how to pronounce "sew".
 
 - [**R for Graphical Clinical Trial Reporting - Frank Harrell**](https://resources.rstudio.com/rstudio-conf-2020/r-for-graphical-clinical-trial-reporting-frank-harrell)
 
@@ -72,7 +72,7 @@ Last week I finished watching the videos of talks that I was interested in but m
 
 - [**`livecode`: broadcast your live coding sessions from and to RStudio - Colin Rundel**](https://resources.rstudio.com/rstudio-conf-2020/lightning-talk-colin-rundel)
 
-    From the technical perspective, this was the talk that I loved the best. As I mentioned [in a post in 2018](/en/2018/01/back-to-dt/), I think **httpuv** is one of the most undervalued R packages. It was created mainly because of **shiny**, but its possible applications can be far beyond **shiny**. I was only aware of two substantial applications: **plumber** and **fiery**. Colin's **livecode** package was the fourth most interesting application of **httpuv** that came to my attention. I believe it will be extremely useful in teaching. As I mentioned to Colin [on Twitter](https://twitter.com/xieyihui/status/1230161301420347394), I felt some [hard dependencies](https://github.com/rundel/livecode/blob/master/DESCRIPTION) could be moved to "Suggests" to make this package more lightweight. For example, I don't quite believe **crayon** has to be a hard dependency, and am [still not convinced](/en/2018/11/dependency-winner/) that **glue** is superior than `paste()` or `sprintf()`.
+    From the technical perspective, this was the talk that I loved the best. As I mentioned [in a post in 2018](/en/2018/01/back-to-dt/), I think **httpuv** is one of the most undervalued R packages. It was created mainly because of **shiny**, but its possible applications can be far beyond **shiny**. I was only aware of two substantial applications: **plumber** and **fiery**. Colin's **livecode** package was the fourth most interesting application of **httpuv** that came to my attention. I believe it will be extremely useful in teaching. As I mentioned to Colin [on tw](https://tw.com/xieyihui/status/1230161301420347394), I felt some [hard dependencies](https://github.com/rundel/livecode/blob/master/DESCRIPTION) could be moved to "Suggests" to make this package more lightweight. For example, I don't quite believe **crayon** has to be a hard dependency, and am [still not convinced](/en/2018/11/dependency-winner/) that **glue** is superior than `paste()` or `sprintf()`.
 
 - [**Object of type 'closure' is not subsettable - Jenny Bryan**](https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan)
 

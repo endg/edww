@@ -4,7 +4,7 @@ date: '2017-09-15'
 slug: pull-requests-as-a-teaching-tool
 ---
 
-Amelia [quoted Feynman on Twitter](https://twitter.com/xieyihui/status/880484692893585408) a while ago, "What I cannot create, I do not understand." I replied, "To me 'create' means 'create a minimal example'." One of my examples was the first Hugo theme I had ever written, [hugo-xmin](https://github.com/yihui/hugo-xmin).
+Amelia [quoted Feynman on tw](https://tw.com/xieyihui/status/880484692893585408) a while ago, "What I cannot create, I do not understand." I replied, "To me 'create' means 'create a minimal example'." One of my examples was the first Hugo theme I had ever written, [hugo-xmin](https://github.com/yihui/hugo-xmin).
 
 ## Motivation
 

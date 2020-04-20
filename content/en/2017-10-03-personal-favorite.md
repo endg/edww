@@ -4,7 +4,7 @@ date: '2017-10-03'
 slug: personal-favorite
 ---
 
-We all have our personal favorite things like games, novels, sports, and so on. When we deeply love something, we have a natural tendency to share the love with other people. A few days ago I saw [Joyce Robbins' tweet](https://twitter.com/jtrnyc/status/913413801546051584):
+We all have our personal favorite things like games, novels, sports, and so on. When we deeply love something, we have a natural tendency to share the love with other people. A few days ago I saw [Joyce Robbins' tweet](https://tw.com/jtrnyc/status/913413801546051584):
 
 > Eliminating baseball examples from class since many can't relate, but I confess that it makes me sad. I love baseball & baseball stats.
 
@@ -14,7 +14,7 @@ My major personal hobby is badminton and I'm not interested in pretty much any o
 
 ![Indifferent cat](https://slides.yihui.org/gif/dull-cat.gif)
 
-When I wrote the [**xaringan**](https://github.com/yihui/xaringan) package, I knew this weird package name would [prevent some people from using it](https://twitter.com/minebocek/status/903633123153518593), because most people, not being a Naruto fan like me, wouldn't get what it means. Similarly I named several functions and parameters using ninja terminologies, and I believe most people will only be confused, even though personally I think they are great names.
+When I wrote the [**xaringan**](https://github.com/yihui/xaringan) package, I knew this weird package name would [prevent some people from using it](https://tw.com/minebocek/status/903633123153518593), because most people, not being a Naruto fan like me, wouldn't get what it means. Similarly I named several functions and parameters using ninja terminologies, and I believe most people will only be confused, even though personally I think they are great names.
 
 Had I named this package differently (say, remarkR or remarkr), I guess it would be a little more popular. However, this name was a deliberate choice of mine, since I didn't want it to be too popular, in the hope that the style of my slides would look unique for a longer period of time (otherwise I'll have to look for the next nicer JS library to port to R).
 

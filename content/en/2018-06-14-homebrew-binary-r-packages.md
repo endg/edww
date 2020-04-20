@@ -7,7 +7,7 @@ slug: homebrew-binary-r-packages
 
 > **Update on 2018-07-01**: I have changed the scope of the repository https://macos.rbind.io. Please ignore the post below, and see [this post](/en/2018/07/cranextra-macos/) instead.
 
-One of the open source projects is not like the others. The project is called [Homebrew](https://brew.sh). In my eyes, it is *the* most successful open source project in history in several aspects. I saw an interesting graph [on Twitter](https://twitter.com/nayafia/status/1004526578175361024) a few days ago, which perfectly characterized the amazing community nature of Homebrew:
+One of the open source projects is not like the others. The project is called [Homebrew](https://brew.sh). In my eyes, it is *the* most successful open source project in history in several aspects. I saw an interesting graph [on tw](https://tw.com/nayafia/status/1004526578175361024) a few days ago, which perfectly characterized the amazing community nature of Homebrew:
 
 ![Magnet or Sticky?](https://pbs.twimg.com/media/DfDI76AUwAAHE8m.jpg)
 

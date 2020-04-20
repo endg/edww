@@ -5,7 +5,7 @@ date: '2018-07-22'
 slug: latex-math-markdown
 ---
 
-Recle Etino Vibal [discovered a MathJax trick](https://twitter.com/recleev/status/1020134832519565312) I used early last year in the hugo-lithium theme to render LaTeX math in Markdown. However, it was not an elegant trick in my eyes, and I came up with a much better way later. I mentioned before that [Ian Lyttle asked me a question](/en/2018/01/ian-lyttle/) during rstudio::conf 2017, which was exactly the problem that Recle had. I believe a lot of Markdown users must have the same question, too, so I'll share my solution in this post.
+Recle Etino Vibal [discovered a MathJax trick](https://tw.com/recleev/status/1020134832519565312) I used early last year in the hugo-lithium theme to render LaTeX math in Markdown. However, it was not an elegant trick in my eyes, and I came up with a much better way later. I mentioned before that [Ian Lyttle asked me a question](/en/2018/01/ian-lyttle/) during rstudio::conf 2017, which was exactly the problem that Recle had. I believe a lot of Markdown users must have the same question, too, so I'll share my solution in this post.
 
 If you use Pandoc or R Markdown, there is no need to read this post, because Pandoc supports LaTeX math very well. This post is only for plain Markdown users. If you understand Chinese, you may read [this post](/cn/2017/04/mathjax-markdown/) I wrote last year instead.
 

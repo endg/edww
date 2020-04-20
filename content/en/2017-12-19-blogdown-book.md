@@ -5,7 +5,7 @@ date: '2017-12-19'
 slug: blogdown-book
 ---
 
-Last year when I finished the **bookdown** package and the companion book "[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)", I summarized my 2016 as "[One year, one package, one book, and endless joy.](https://twitter.com/xieyihui/status/804732609171517440)"
+Last year when I finished the **bookdown** package and the companion book "[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)", I summarized my 2016 as "[One year, one package, one book, and endless joy.](https://tw.com/xieyihui/status/804732609171517440)"
 
 This year, the summary is pretty much the same: another year, another R package (**blogdown**), [another book](https://bookdown.org/yihui/blogdown/), and still endless joy. The **blogdown** book is [available for purchase now](https://www.crcpress.com/p/book/9780815363729). I'm not writing this post to urge you to buy the book (it is free to read online, and even if you buy it, I won't get a penny in my pocket), but share some stories and thoughts behind the book and the package. There isn't a particular order below.
 
@@ -85,7 +85,7 @@ The most important lesson I learned was to make a plan, and stick firmly to it. 
 
 After a couple of months, I started to feel very anxious and guilty when I reported my progress to Tareef (president of RStudio), and the progress was often "not much progress". I really hate this feeling. I'm not a lazy guy. I just often seem to be busy with things that are not on the plan.
 
-Eventually I started to make a weekly plan in [a Google doc](https://docs.google.com/a/rstudio.com/document/d/1jVUUkjc-n1o6iwDIJkGVpRXU7VVmqyz5iAHdu2O5_0k/edit?usp=sharing). I stuck with it for two months, closed the Gmail tab in my browser in the daytime, quit Slack, logged out Twitter, and got the first draft done. I wrote and documented the hugo-xmin theme during this period. It was my most productive moment.
+Eventually I started to make a weekly plan in [a Google doc](https://docs.google.com/a/rstudio.com/document/d/1jVUUkjc-n1o6iwDIJkGVpRXU7VVmqyz5iAHdu2O5_0k/edit?usp=sharing). I stuck with it for two months, closed the Gmail tab in my browser in the daytime, quit Slack, logged out tw, and got the first draft done. I wrote and documented the hugo-xmin theme during this period. It was my most productive moment.
 
 ## I don't really know my co-authors in person
 

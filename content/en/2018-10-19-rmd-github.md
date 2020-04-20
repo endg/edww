@@ -6,7 +6,7 @@ slug: rmd-github
 
 Recently I requested Github to undo [the feature](https://github.com/github/markup/pull/343) of treating R Markdown as Markdown on Github, i.e., rendering R Markdown as if it were plain Markdown when you browse such files in a Github repo. I guess some users are going to hate me for this, so I want to explain the rationale in this post.
 
-Four years ago, a couple of R users, [including Karthik](https://twitter.com/_inundata/status/510448862880727040), requested Github to add this feature. Since then, I have found it more bothersome than convenient, and [eventually thought it was a mistake](https://twitter.com/xieyihui/status/662332967532957700). There are rarely things that are absolutely good or bad. It is always about trade-offs. Rendering Rmd as Markdown has the one and only advantage: it makes the text of Rmd files more human-readable, because reading a rendered output file (an HTML page) is more pleasant than reading the (Rmd) source file.
+Four years ago, a couple of R users, [including Karthik](https://tw.com/_inundata/status/510448862880727040), requested Github to add this feature. Since then, I have found it more bothersome than convenient, and [eventually thought it was a mistake](https://tw.com/xieyihui/status/662332967532957700). There are rarely things that are absolutely good or bad. It is always about trade-offs. Rendering Rmd as Markdown has the one and only advantage: it makes the text of Rmd files more human-readable, because reading a rendered output file (an HTML page) is more pleasant than reading the (Rmd) source file.
 
 The question is whether the disadvantages outweigh the advantage, and obviously I do think so. There are two drawbacks of rendering Rmd as Markdown on Github.
 

@@ -12,7 +12,7 @@ slug: copy-editor
 
 1. 轩哥的 prettydoc 例子中的单数可数 [HTML document 没有冠词](https://github.com/yixuan/prettydoc/pull/10)。当然，用复数也可以，我给改成复数了。
 
-1. rmdshower 包中的例子里的 your looking for [应该是 you're looking for](https://github.com/MangoTheCat/rmdshower/pull/49)。每当我看见英语母语的歪果仁犯这个错误都觉得好笑，怎么会[有那么多人](https://twitter.com/apreshill/status/1009431901990350854)分不清 your 和 you're 呢？老虎，老鼠，傻傻分不清楚。
+1. rmdshower 包中的例子里的 your looking for [应该是 you're looking for](https://github.com/MangoTheCat/rmdshower/pull/49)。每当我看见英语母语的歪果仁犯这个错误都觉得好笑，怎么会[有那么多人](https://tw.com/apreshill/status/1009431901990350854)分不清 your 和 you're 呢？老虎，老鼠，傻傻分不清楚。
 
 1. pkgdown 包的首页中 go settings [应该是 go to settings](https://github.com/r-lib/pkgdown/pull/736)，漏了介词 to。
 

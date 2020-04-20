@@ -8,7 +8,7 @@ Since I have been fearing that too many people will use the same style for [**xa
 
 In a previous post "[Why xaringan](/en/2017/08/why-xaringan-remark-js/)", I mentioned John Little created a Duke theme, which is a good example of what I'm looking for. I hope such CSS themes could be provided by **xaringan** (under the directory [inst/rmarkdown/templates/xaringan/resources/](https://github.com/yihui/xaringan/tree/master/inst/rmarkdown/templates/xaringan/resources)) so that a user can specify something like `css: duke` to change the default theme.
 
-I know this will [at least help Mine](https://twitter.com/minebocek/status/915045598956580865).
+I know this will [at least help Mine](https://tw.com/minebocek/status/915045598956580865).
 
 Anyone?
 

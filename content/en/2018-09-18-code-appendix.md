@@ -10,7 +10,7 @@ My previous long post on [the notebook war](/en/2018/09/notebook-war/) scratched
 
 ## Why code in the appendix
 
-Last week [Alex Hayes showed an interesting trick](https://twitter.com/alexpghayes/status/1039170310560464897) on how to put all your code in the appendix of a document. This can be very useful when you don't want to distract your readers with program code in the body of your report, but want to give those who care about the computational details a chance to know the details. An appendix will be the natural place to go for these code (especially when your output format is PDF or other formats to be printed).
+Last week [Alex Hayes showed an interesting trick](https://tw.com/alexpghayes/status/1039170310560464897) on how to put all your code in the appendix of a document. This can be very useful when you don't want to distract your readers with program code in the body of your report, but want to give those who care about the computational details a chance to know the details. An appendix will be the natural place to go for these code (especially when your output format is PDF or other formats to be printed).
 
 ## The magical ninja Alex's method
 
@@ -51,7 +51,7 @@ In Alex's method, `path/to/file.Rmd` doesn't have to be hard-coded, and can actu
 
 Although Alex's method definitely works, it is not very efficient, because every time you compile the document, **knitr** has to parse the document twice (once for `knitr::knit()` and once for `knitr::purl()`).
 
-Among the replies to Alex's original tweet, the very cool hacker^[I wish I had time to write the "cool hacker" series of posts about those awesome R users.], Lucy D'Agostino McGowan, [pointed out the efficient way](https://twitter.com/LucyStats/status/1039178545715662848):
+Among the replies to Alex's original tweet, the very cool hacker^[I wish I had time to write the "cool hacker" series of posts about those awesome R users.], Lucy D'Agostino McGowan, [pointed out the efficient way](https://tw.com/LucyStats/status/1039178545715662848):
 
 ````md
 ```{r ref.label=knitr::all_labels(), echo = T, eval = F}
@@ -64,7 +64,7 @@ After **knitr** parses a document, all code chunks and their labels are stored i
 
 (Ten months later.)
 
-[Ariel Muldoon](https://twitter.com/aosmith16/status/1144669579630669829) independently discovered `all_labels()`, and also tried to filter the chunk labels programmatically:
+[Ariel Muldoon](https://tw.com/aosmith16/status/1144669579630669829) independently discovered `all_labels()`, and also tried to filter the chunk labels programmatically:
 
 ````md
 ```{r getlabels, echo = FALSE}

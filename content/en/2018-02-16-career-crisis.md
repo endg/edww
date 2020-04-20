@@ -29,7 +29,7 @@ I was not completely focused on **cranvas** all the time, because of a few side 
 
 Things quickly became worse in late 2011, when I started working on **knitr**. I was so fascinated by the fact that I could eventually significantly improve Sweave, which had tortured me for a number of years. I didn't talk to my advisors in advance, and jumped straight into **knitr**. From that week, I started to have a mixed feeling in my heart: I was super excited by **knitr**, and I felt guilty to leave **cranvas** behind. Every week I met with Di, I felt anxious because I procrastinated indefinitely on **cranvas**, which was supposed to be the topic of my PhD dissertation, whereas **knitr** was not on the original plan at all.
 
-I was able to read the disappointment^[As Prof Tian Zheng [pointed out](https://twitter.com/tz33cu/status/964950098223525888), it should be more of a look of concern instead of disappointment, which was later [confirmed](https://twitter.com/tz33cu/status/964950098223525888) by Di. She wanted to make sure I'd have a thesis product that could pass the final examination.] from her eyes, but usually I'd try to forget the anxiety five minutes after I left her office and continue working on **knitr**.
+I was able to read the disappointment^[As Prof Tian Zheng [pointed out](https://tw.com/tz33cu/status/964950098223525888), it should be more of a look of concern instead of disappointment, which was later [confirmed](https://tw.com/tz33cu/status/964950098223525888) by Di. She wanted to make sure I'd have a thesis product that could pass the final examination.] from her eyes, but usually I'd try to forget the anxiety five minutes after I left her office and continue working on **knitr**.
 
 As I said, my advisors were very open-minded. I'm pretty sure **knitr** wouldn't be born, had I worked with other advisors. They were disappointed that I started to work on a package irrelevant to statistical graphics, but they didn't stop me. To some extent, they sacrificed their own interest in favor of other people's interest, and the number of "other people" turned out to be huge in the coming years.
 
@@ -171,7 +171,7 @@ The ego also made me ignore people I shouldn't have ignored. When Joe first remi
 
 Now I'm ready to kill my ego. To me, the ego will grow by itself unless I intentionally suppress it. I need to control myself and try not to seek for the mental reward from praises. Ray Dalio suggests us pay close attention to what is right or wrong in other people's comments, instead of what makes us feel good or bad. We need to be careful enough not to be trapped by the feelings produced by our "lower-level" selves.
 
-This explains why I no longer tweet actively and frequently (now I primarily use Twitter for replying people). I don't want to be fooled by the big number of followers or the numbers of likes or retweets of my tweets. I have quit my blog from the popular R-bloggers (for reasons including this one) and, if I remember correctly, never actively tweeted a single blog post of mine (sometimes I mention certain posts in replies due to the character limit). It also explains [why I aggressively cut my own reputation points](/en/2017/12/so-bounties/) on StackOverflow. I want to restore my sanity and evaluate myself objectively in a quiet world.
+This explains why I no longer tweet actively and frequently (now I primarily use tw for replying people). I don't want to be fooled by the big number of followers or the numbers of likes or retweets of my tweets. I have quit my blog from the popular R-bloggers (for reasons including this one) and, if I remember correctly, never actively tweeted a single blog post of mine (sometimes I mention certain posts in replies due to the character limit). It also explains [why I aggressively cut my own reputation points](/en/2017/12/so-bounties/) on StackOverflow. I want to restore my sanity and evaluate myself objectively in a quiet world.
 
 To clarify, I definitely don't mean people should not praise me (please don't feel bad if you have ever praised me). It was all my own fault to indulge myself in the praises and reputation. I thought I was awesome even when I was essentially rotten inside.
 
@@ -179,7 +179,7 @@ If you cannot kill yourself, don't expect to rebuild yourself.
 
 ## The direct cure
 
-In the spring of 2016, I was invited to give a talk at a conference organized by the ASA Chicago chapter, where I met Karl Broman and a few other speakers. At the dinner, I told Karl that I had got the cure for my procrastination. He seemed to find it unbelievable (perhaps because procrastination was so common in academia, and he was [also a person poor at saying "No"](https://twitter.com/kwbroman/status/798938827876421633)).
+In the spring of 2016, I was invited to give a talk at a conference organized by the ASA Chicago chapter, where I met Karl Broman and a few other speakers. At the dinner, I told Karl that I had got the cure for my procrastination. He seemed to find it unbelievable (perhaps because procrastination was so common in academia, and he was [also a person poor at saying "No"](https://tw.com/kwbroman/status/798938827876421633)).
 
 A cure for procrastination? Is there such a thing in the world?!
 

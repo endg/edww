@@ -5,7 +5,7 @@ date: '2018-03-20'
 slug: talk-driven-development
 ---
 
-Last year at rstudio::conf 2017, I said I used the "conference-driven development model". Right before I gave the talk on **blogdown**, I wrote an RStudio addin to demonstrate in my talk, which later evolved into the "New Post" addin you see today. I really meant the "[talk-driven development](https://twitter.com/JennyBryan/status/970841704625356801)": when I'm going to give a talk, I'll surely ask myself how I could make better use of the unique chance to show something exciting to the audience.
+Last year at rstudio::conf 2017, I said I used the "conference-driven development model". Right before I gave the talk on **blogdown**, I wrote an RStudio addin to demonstrate in my talk, which later evolved into the "New Post" addin you see today. I really meant the "[talk-driven development](https://tw.com/JennyBryan/status/970841704625356801)": when I'm going to give a talk, I'll surely ask myself how I could make better use of the unique chance to show something exciting to the audience.
 
 This year, I thought about the same thing before I gave the talk at rstudio::conf, but didn't risk writing new code right before my talk (sigh, I'm becoming old and my brain is becoming slow). I mentioned a tiny feature [`options(blogdown.title_case = TRUE)`](https://slides.yihui.org/2018-blogdown-rstudio-conf-Yihui-Xie.html#22) in my talk, which was a **blogdown** feature I added two days before the talk. When you set this option, your post title will be converted to title case if the post is created via the "New Post" addin in RStudio or `blogdown::new_post()`, thanks to the function `tools::toTitleCase()`.^[As you all know, R is a language for statistical computing, graphics, and English grammar.]
 

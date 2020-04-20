@@ -4,7 +4,7 @@ date: '2018-09-20'
 slug: target-blank
 ---
 
-Albert Kim [just discovered one way](https://twitter.com/rudeboybert/status/1042418261596545027) to make links open in new browser tabs for R Markdown users: you can add an attribute `target="_blank"` after a link, e.g., `[example website](https://example.com){target="_blank"}`.
+Albert Kim [just discovered one way](https://tw.com/rudeboybert/status/1042418261596545027) to make links open in new browser tabs for R Markdown users: you can add an attribute `target="_blank"` after a link, e.g., `[example website](https://example.com){target="_blank"}`.
 
 ## You should thoroughly learn Pandoc's Markdown
 
@@ -18,7 +18,7 @@ In Albert's case, however, you still won't know how to make a link open in a new
 
 Pure technical issues are often relatively easy to resolve. Things will become complicated whenever humans are involved.
 
-As I expected, there will be people who hate links that always open in new tabs, such as [Bob](https://twitter.com/Bootvis/status/1042448271350943749) in the Twitter thread:
+As I expected, there will be people who hate links that always open in new tabs, such as [Bob](https://tw.com/Bootvis/status/1042448271350943749) in the tw thread:
 
 > Please don't decide for the user. If I want to open a link in a new tab, my browser makes it easy to do so, and if I want to go back to your document, I use the back button.
 
@@ -49,7 +49,7 @@ Finally we are back to the technical world again. On my personal website, I use 
 })();
 ```
 
-To fully understand the code above, you have to understand URLs. You may think URLs are simple, but they may not be. People [make mistakes](/en/2018/01/valid-url/) all the time. People [get confused](https://twitter.com/xieyihui/status/1040441928087683072) over and over again. Relative URLs? Absolute URLs? Absolute relative URLs? Protocol-free URLs? You may read my least favorite part of the **blogdown** book to know more: [Appendix B.1](https://bookdown.org/yihui/blogdown/html.html).
+To fully understand the code above, you have to understand URLs. You may think URLs are simple, but they may not be. People [make mistakes](/en/2018/01/valid-url/) all the time. People [get confused](https://tw.com/xieyihui/status/1040441928087683072) over and over again. Relative URLs? Absolute URLs? Absolute relative URLs? Protocol-free URLs? You may read my least favorite part of the **blogdown** book to know more: [Appendix B.1](https://bookdown.org/yihui/blogdown/html.html).
 
 ![I'm just going to shoot myself](https://slides.yihui.org/gif/shoot-myself.gif)
 

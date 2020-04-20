@@ -44,7 +44,7 @@ I have a Github issue template for **knitr**, and hopefully anyone who opens a n
 
 Finally, Github embraced CommonMark and announced [a formal spec for GitHub Flavored Markdown](https://github.com/blog/2333-a-formal-spec-for-github-flavored-markdown). I just loved it.
 
-I love everything about Markdown except the fact that the Markdown world is so fragmentized with many different flavors of Markdown. I very much believe in Pandoc's Markdown and truly appreciate John McFarland's effort on "standardizing" Markdown along with other contributors of CommonMark. Some of you may still remember John Gruber's tweet "['Standard Markdown' is neither](https://twitter.com/markdown/status/507341395137658880)" in 2014. I was quite upset by these words from the mouth of the Markdown's inventor. Anyway, "Standard Markdown" was renamed to "CommonMark" later. Whatever the name is, I love it.
+I love everything about Markdown except the fact that the Markdown world is so fragmentized with many different flavors of Markdown. I very much believe in Pandoc's Markdown and truly appreciate John McFarland's effort on "standardizing" Markdown along with other contributors of CommonMark. Some of you may still remember John Gruber's tweet "['Standard Markdown' is neither](https://tw.com/markdown/status/507341395137658880)" in 2014. I was quite upset by these words from the mouth of the Markdown's inventor. Anyway, "Standard Markdown" was renamed to "CommonMark" later. Whatever the name is, I love it.
 
 So I [revised](https://github.com/yihui/knitr/commit/d7d59633302d35e9d244490112ba94ecbcd8f281#diff-1a1c3dd142f76a5fad803a0c52839881) the Github issue template, and it is much easier to type a pair of four backticks than many four-spaces.
 

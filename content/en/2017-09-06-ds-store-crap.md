@@ -20,4 +20,4 @@ $ crontab -l
 @hourly find ~ -name ".DS_Store" -depth -exec rm {} \;
 ```
 
-If you want to install this cron job, you need to type `crontab -e` in the terminal, paste the job, and have fun with the editor that [you cannot quit](https://twitter.com/iamdevloper/status/435555976687923200).
+If you want to install this cron job, you need to type `crontab -e` in the terminal, paste the job, and have fun with the editor that [you cannot quit](https://tw.com/iamdevloper/status/435555976687923200).

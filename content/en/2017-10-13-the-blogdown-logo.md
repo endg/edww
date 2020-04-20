@@ -5,11 +5,11 @@ date: '2017-10-13'
 slug: the-blogdown-logo
 ---
 
-Last month when I finished the first draft of [the **blogdown** book](https://bookdown.org/yihui/blogdown/), I was thinking that I need a logo for this package, so that we can get some hexbin stickers of **blogdown** at rstudio::conf 2018. I'm pretty bad at art design, so I asked on Twitter for help. I got a lot of suggestions and drafts, which made it very difficult for me to decide, but eventually I chose this one provided by Taras (the icon is a combination of the RStudio logo and the RSS icon):
+Last month when I finished the first draft of [the **blogdown** book](https://bookdown.org/yihui/blogdown/), I was thinking that I need a logo for this package, so that we can get some hexbin stickers of **blogdown** at rstudio::conf 2018. I'm pretty bad at art design, so I asked on tw for help. I got a lot of suggestions and drafts, which made it very difficult for me to decide, but eventually I chose this one provided by Taras (the icon is a combination of the RStudio logo and the RSS icon):
 
 ![blogdown logo](https://db.yihui.org/images/hex-blogdown.png)
 
-I don't want the rest of the designs to be lost, so I have gathered them below. You can find their authors in [the Twitter thread](https://twitter.com/xieyihui/status/907269861574930432), to whom I was really grateful. In particular, I'd like to thank Thomas Lin Pederson for his tremendous help (and sorry for not using your design).
+I don't want the rest of the designs to be lost, so I have gathered them below. You can find their authors in [the tw thread](https://tw.com/xieyihui/status/907269861574930432), to whom I was really grateful. In particular, I'd like to thank Thomas Lin Pederson for his tremendous help (and sorry for not using your design).
 
 ![hex-blogdown-1](https://db.yihui.org/images/hex-blogdown-1.jpg)
 

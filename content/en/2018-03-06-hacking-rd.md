@@ -4,7 +4,7 @@ date: '2018-03-06'
 slug: hacking-rd
 ---
 
-Early in January this year, the curious Colin Fay [discovered with great surprise](https://twitter.com/_ColinFay/status/951819899248283651) that someone managed to insert Clippy (the classic Office Assistant) to the R help page of `writexl::write_xlsx()`!
+Early in January this year, the curious Colin Fay [discovered with great surprise](https://tw.com/_ColinFay/status/951819899248283651) that someone managed to insert Clippy (the classic Office Assistant) to the R help page of `writexl::write_xlsx()`!
 
 ![Clippy on an R help page](https://pbs.twimg.com/media/DTWLBfhW4AACZGd.jpg:large)
 
@@ -14,4 +14,4 @@ This morning I learned another amazing hack from Noam Ross, and the hack was eve
 
 ![Oh my... You hackers are so awesome](https://slides.yihui.org/gif/slow-applaud.gif)
 
-**Update on 2018-08-01**: I discovered [yoni sidi's `<details>` hack](https://twitter.com/yoniceedee/status/1024740274495528960).
+**Update on 2018-08-01**: I discovered [yoni sidi's `<details>` hack](https://tw.com/yoniceedee/status/1024740274495528960).

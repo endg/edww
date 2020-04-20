@@ -5,7 +5,7 @@ date: '2017-08-24'
 slug: so-gh-email
 ---
 
-Everyone understands the importance of [an uninterrupted block of time](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/), especially to programmers. To me, the #1 source of distraction is emails.^[I can handle social media well. I limit my time on Twitter to be 10 minutes per day. I pretty much don't use Facebook or other social media websites or apps at all.] When I really need to get some serious work done, I have to close the Gmail tab in my browser, otherwise I cannot help looking at new emails, even though I still have other emails that I have not replied. I think I reached the goal "Inbox Zero" once a couple of years ago, and usually I have about 40 emails left in my inbox.
+Everyone understands the importance of [an uninterrupted block of time](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/), especially to programmers. To me, the #1 source of distraction is emails.^[I can handle social media well. I limit my time on tw to be 10 minutes per day. I pretty much don't use Facebook or other social media websites or apps at all.] When I really need to get some serious work done, I have to close the Gmail tab in my browser, otherwise I cannot help looking at new emails, even though I still have other emails that I have not replied. I think I reached the goal "Inbox Zero" once a couple of years ago, and usually I have about 40 emails left in my inbox.
 
 ## TL;DR
 
@@ -31,7 +31,7 @@ I have pushed people to StackOverflow many times in the past, and I'd say most o
 
 This morning I received an email about a **knitr** question. I was very happy that the sender read my email policy before. Actually she posted [the question](https://stackoverflow.com/q/44656046/559676) on StackOverflow two months ago, and waited till today to email me with the link to the post. I very much appreciate her patience. Again, as a sign of appreciation, I answered the question a few minutes later. It is actually a good question. Had this question come to my inbox first, I'd probably have ignored it.
 
-> **Update on 2017/08/25**: This post reminded [Tim Appelhans](https://twitter.com/TimSalabim3/status/900962571024441345) of a [StackOverflow question](https://stackoverflow.com/q/17502050/559676) that he posted four years ago. That was an interesting question, and I guess few users would be able to find the answer without reading the **knitr** source code, so I'd be very glad to answer this kind of questions.
+> **Update on 2017/08/25**: This post reminded [Tim Appelhans](https://tw.com/TimSalabim3/status/900962571024441345) of a [StackOverflow question](https://stackoverflow.com/q/17502050/559676) that he posted four years ago. That was an interesting question, and I guess few users would be able to find the answer without reading the **knitr** source code, so I'd be very glad to answer this kind of questions.
 
 ## Github Issues
 

@@ -9,7 +9,7 @@ A few days ago Frank asked [a **bookdown** question](https://stackoverflow.com/q
 
 > If your problem is solved, don't forget to close this issue.
 
-Yes! The fewer open issues I see, the happier I feel. Every single Github issue requires a decision: Should I fix it? Answer it? Ignore it? Ask for more info? Close it? When I go through a large number of Github issues, I have to constantly switch channels in my mind, and I guess you all know the initial friction when you are about to tackle a new problem (you need time to warm up --- perhaps take a look at Twitter, have some snacks, and so on, and then take a deep breath, only to find it is already 5pm). In my busy (or lazy) days, I almost wish I could pay you to close your own issues if they are not really big deal.
+Yes! The fewer open issues I see, the happier I feel. Every single Github issue requires a decision: Should I fix it? Answer it? Ignore it? Ask for more info? Close it? When I go through a large number of Github issues, I have to constantly switch channels in my mind, and I guess you all know the initial friction when you are about to tackle a new problem (you need time to warm up --- perhaps take a look at tw, have some snacks, and so on, and then take a deep breath, only to find it is already 5pm). In my busy (or lazy) days, I almost wish I could pay you to close your own issues if they are not really big deal.
 
 Marcel also pointed out that one could help edit the source of the **bookdown** book and send a pull request if the book is not clear. Joyful tears were rolling down my face. I love people who know how to edit files online on Github. I, just, love, them.
 

@@ -4,7 +4,7 @@ date: '2018-06-20'
 slug: github-stars
 ---
 
-[有好事者](https://twitter.com/StevenMMortimer/status/1009150231190089728)抓取了 R 包的下载量以及相应的 Github 星标数，做了简单的描述性分析。排名第一的是谁我想大家猜都不用猜，毫无悬念，是他，是他，就是他。寡人的总星标数排第二，略感意外，尤其 bookdown 的星标数已经过千让我不太能理解——不太可能会有那么多人有写书的需求吧。
+[有好事者](https://tw.com/StevenMMortimer/status/1009150231190089728)抓取了 R 包的下载量以及相应的 Github 星标数，做了简单的描述性分析。排名第一的是谁我想大家猜都不用猜，毫无悬念，是他，是他，就是他。寡人的总星标数排第二，略感意外，尤其 bookdown 的星标数已经过千让我不太能理解——不太可能会有那么多人有写书的需求吧。
 
 ![R 包的下载量以及相应的 Github 星标数](https://pbs.twimg.com/media/DgE4mk9X4AABz89.jpg)
 
