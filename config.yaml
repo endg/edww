@@ -148,7 +148,7 @@ menu:
 
 params:
   description: "Personal website of DAN's note; 老登纪"
-  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn) |![police](/images/police.png)[津公网安备 12011402001073号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001073)"
+  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn) |![police](/images/police.webp)[津公网安备 12011402001073号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001073)"
   disqusURL: ""
   customJS:
     - "js/fix-toc.js"
@@ -161,17 +161,17 @@ params:
     - "js/alt-title.js"
     - "js/header-link.js"
   githubContentURL: "https://github.com/endg/edww/edit/master/content/"
-  twitterImage: "/images/logo.png"
+  twitterImage: "/images/logo.webp"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
-  highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsCDN: "//cdn.jsdelivr.net/ajax/libs"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
 
   logo:
     en:
-      img: "/images/logo.png"
+      img: "/images/logo.webp"
       url: "/"
       alt: "dan"
       tag: "Dan's Note"
