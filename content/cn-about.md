@@ -8,3 +8,4 @@ slug: "cn/about"
 ## 站点纪录
 
 20200423 通过 gong an 备 an。网站添加gong安bei案编号。
+20200401 使用hugo-ivy
