@@ -19,8 +19,6 @@ slug: 'gitdirty'
 reward: false
 # mathjax: true
 ---
-keywords:Subproject
-
 A.github中提示：Subproject commit 88bc8ad05dbf978eaae1ab6359a81acae4bfd034-dirty
 
 B.git diff 提示 subproject dirty
