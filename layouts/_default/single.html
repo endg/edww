@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+{{ if .Params.show_toc }} {{ .TableOfContents }} {{ end }}
+{{ .Content }}
+
+<p style="margin: 10px 0; color:#ba3537; font-size: 1.25em;">相关内容</p>
+{{ $.Scratch.Set "limit" 0 }}{{ $currentPagePermalink := .Permalink }}{{ $tags := .Params.tags }}{{ range .Site.Pages }}{{ $isMatchTags := intersect $tags .Params.tags | len | lt 0 }}{{ if and $isMatchTags (ne .Permalink $currentPagePermalink) (lt ($.Scratch.Get "limit") 10) }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ $.Scratch.Add "limit" 1 }}
+{{ end }}
+{{ end }}
+
+{{ partial "footer.html" . }}

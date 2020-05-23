@@ -14,22 +14,24 @@ permalinks:
 
 menu:
   main:
-    - name: "首页"
-      url: "/"
+    - name: "About"
+      url: "/en/about/"
       weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 7
-    - name: "归档"
-      url: "/cn/"
-      identifier: "archives"
-      weight: 4
-    - name: "标签"
-      url: "/tags/"
-      weight: 6
     - name: "Blog"
       url: "/en/"
-      weight: 8
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "纪录"
+      url: "/cn/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
   en:
     - name: "Home"
       url: "/"
