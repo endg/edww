@@ -2,3 +2,4 @@ public
 static/figures
 
 .vscode/ftp-sync.json
+*.exe
