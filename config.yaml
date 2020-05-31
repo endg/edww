@@ -2,6 +2,7 @@ baseurl: "https://edwww.com/"
 languageCode: "en-us"
 title: "Dan | 登"
 theme: "hugo-ivy"
+googleAnalytics: "UA-168086063-1"
 disqusShortname: ""
 hasCJKLanguage: true
 enableEmoji: true
