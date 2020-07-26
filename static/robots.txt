@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /lion/
+Disallow: /images/
 Sitemap: {{ "sitemap.xml" | absURL }}
