@@ -1,0 +1,211 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Dan | 登"
+theme: "hugo-ivy"
+googleAnalytics: "UA-168086063-1"
+disqusShortname: ""
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 100
+
+permalinks:
+  cn: "/cn/:slug/"
+  en: "/en/:slug/"
+
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "纪录"
+      url: "/cn/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+    - name: "中文"
+      url: "/cn/"
+      weight: 7
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "纪录"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "分类"
+      url: "/categories/"
+      weight: 6
+    - name: "标签"
+      url: "/tags/"
+      weight: 7
+    - name: "English"
+      url: "/en/"
+      weight: 8
+  k:
+    - name: "Home"
+      url: "/k/"
+      weight: 1
+    - name: "Options"
+      url: "/k/options/"
+      weight: 2
+    - name: "Hooks"
+      url: "/k/hooks/"
+      weight: 3
+    - name: "Examples"
+      url: "/k/demos/"
+      weight: 4
+    - name: "FAQ"
+      url: "/k/faq/"
+      weight: 5
+    - name: "Github repo"
+      pre: "github"
+      url: "https://github.com/yihui/knitr"
+      weight: 6
+    - name: "Main"
+      url: "/"
+      weight: 7
+  a:
+    - name: "Home"
+      url: "/a/"
+      weight: 1
+    - name: "Examples"
+      url: "/a/examples/"
+      weight: 2
+    - name: "Export"
+      url: "/a/export/"
+      weight: 3
+    - name: "Resources"
+      url: "/a/resources/"
+      weight: 4
+    - name: "Github repo"
+      pre: "github"
+      url: "https://github.com/yihui/animation"
+      weight: 5
+    - name: "Main"
+      url: "/"
+      weight: 6
+  t:
+    - name: "Home"
+      url: "/t/"
+      weight: 1
+    - name: "FAQs"
+      url: "/t/faq/"
+      weight: 2
+    - name: "R package"
+      url: "/t/r/"
+      weight: 3
+    - name: "Hall of Pain"
+      url: "/t/pain/"
+      weight: 4
+    - name: "中文文档"
+      url: "/t/cn/"
+      weight: 5
+    - name: "Github repo"
+      pre: "github"
+      url: "https://github.com/yihui/tinytex"
+      weight: 6
+    - name: "Main"
+      url: "/"
+      weight: 7
+
+params:
+  description: "Personal website of DAN's note; 老登纪"
+  footer: "&copy; [老登纪](/) 2018 - 2020 [津ICP备19011517号]( http://www.beian.miit.gov.cn) |![police](/images/police.webp)[津公网安备 12011402001073号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001073)"
+  disqusURL: ""
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  githubContentURL: "https://github.com/endg/edww/edit/master/content/"
+  GithubEdit: "https://github.com/endg/edww/edit/master/content/"
+  twitterImage: "/images/logo.webp"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.jsdelivr.net/ajax/libs"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.webp"
+      url: "/"
+      alt: "dan"
+      tag: "Dan's Note"
+    knitr:
+      img: "/k/images/knit-logo.png"
+      url: "/k/"
+      alt: "k logo"
+      tag: "k: elegant, flexible, and fast dynamic report generation with R"
+    tinytex:
+      img: "/images/logo-tinytex.png"
+      url: "/t/"
+      alt: "t logo"
+      tag: "T: A lightweight and easy-to-maintain LaTeX distribution"
+
+  author:
+    en: "Dan"
+    cn: "登"
+    animation: "Dan & ying"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "RSS"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

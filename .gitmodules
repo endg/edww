@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/endg/endg.github.io.git
-[submodule "themes/accessible-minimalism"]
-	path = themes/accessible-minimalism
-	url = https://github.com/leonstafford/accessible-minimalism-hugo-theme.git
+[submodule "themes/hugo-ivy"]
+	path = themes/hugo-ivy
+	url = https://github.com/yihui/hugo-ivy.git
